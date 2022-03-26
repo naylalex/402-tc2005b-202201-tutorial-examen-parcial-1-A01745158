@@ -8,6 +8,9 @@ function isPalindrome(text: string): boolean {
       //TODO: Implementar lógica de comparación de caracteres
 
   }
+      //TODO: Implementar lógica de comparación de caracteres
+
+  }
   return bPalindrome;
 }
 export default isPalindrome;
